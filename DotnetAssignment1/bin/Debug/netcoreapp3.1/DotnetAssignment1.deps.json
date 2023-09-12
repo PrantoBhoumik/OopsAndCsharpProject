@@ -1,0 +1,212 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DotnetAssignment1/1.0.0": {
+        "dependencies": {
+          "Exercise_1": "1.0.0",
+          "Exercise_10": "1.0.0",
+          "Exercise_11": "1.0.0",
+          "Exercise_12": "1.0.0",
+          "Exercise_13": "1.0.0",
+          "Exercise_14": "1.0.0",
+          "Exercise_15": "1.0.0",
+          "Exercise_16": "1.0.0",
+          "Exercise_17": "1.0.0",
+          "Exercise_2": "1.0.0",
+          "Exercise_3": "1.0.0",
+          "Exercise_4": "1.0.0",
+          "Exercise_5": "1.0.0",
+          "Exercise_6": "1.0.0",
+          "Exercise_7": "1.0.0",
+          "Exercise_8": "1.0.0",
+          "Exercise_9": "1.0.0"
+        },
+        "runtime": {
+          "DotnetAssignment1.dll": {}
+        }
+      },
+      "Exercise_1/1.0.0": {
+        "runtime": {
+          "Exercise_1.dll": {}
+        }
+      },
+      "Exercise_10/1.0.0": {
+        "runtime": {
+          "Exercise_10.dll": {}
+        }
+      },
+      "Exercise_11/1.0.0": {
+        "runtime": {
+          "Exercise_11.dll": {}
+        }
+      },
+      "Exercise_12/1.0.0": {
+        "runtime": {
+          "Exercise_12.dll": {}
+        }
+      },
+      "Exercise_13/1.0.0": {
+        "runtime": {
+          "Exercise_13.dll": {}
+        }
+      },
+      "Exercise_14/1.0.0": {
+        "runtime": {
+          "Exercise_14.dll": {}
+        }
+      },
+      "Exercise_15/1.0.0": {
+        "runtime": {
+          "Exercise_15.dll": {}
+        }
+      },
+      "Exercise_16/1.0.0": {
+        "runtime": {
+          "Exercise_16.dll": {}
+        }
+      },
+      "Exercise_17/1.0.0": {
+        "runtime": {
+          "Exercise_17.dll": {}
+        }
+      },
+      "Exercise_2/1.0.0": {
+        "runtime": {
+          "Exercise_2.dll": {}
+        }
+      },
+      "Exercise_3/1.0.0": {
+        "runtime": {
+          "Exercise_3.dll": {}
+        }
+      },
+      "Exercise_4/1.0.0": {
+        "runtime": {
+          "Exercise_4.dll": {}
+        }
+      },
+      "Exercise_5/1.0.0": {
+        "runtime": {
+          "Exercise_5.dll": {}
+        }
+      },
+      "Exercise_6/1.0.0": {
+        "runtime": {
+          "Exercise_6.dll": {}
+        }
+      },
+      "Exercise_7/1.0.0": {
+        "runtime": {
+          "Exercise_7.dll": {}
+        }
+      },
+      "Exercise_8/1.0.0": {
+        "runtime": {
+          "Exercise_8.dll": {}
+        }
+      },
+      "Exercise_9/1.0.0": {
+        "runtime": {
+          "Exercise_9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotnetAssignment1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercise_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercise_10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercise_11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercise_12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercise_13/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercise_14/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercise_15/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercise_16/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercise_17/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercise_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercise_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercise_4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercise_5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercise_6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercise_7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercise_8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercise_9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

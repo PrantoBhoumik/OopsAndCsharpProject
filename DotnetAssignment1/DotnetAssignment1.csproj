@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Exercise1\Exercise_1.csproj" />
+    <ProjectReference Include="..\Exercise2\Exercise_2.csproj" />
+    <ProjectReference Include="..\Exercise6\Exercise_6.csproj" />
+    <ProjectReference Include="..\Exercise_10\Exercise_10.csproj" />
+    <ProjectReference Include="..\Exercise_11\Exercise_11.csproj" />
+    <ProjectReference Include="..\Exercise_12\Exercise_12.csproj" />
+    <ProjectReference Include="..\Exercise_13\Exercise_13.csproj" />
+    <ProjectReference Include="..\Exercise_14\Exercise_14.csproj" />
+    <ProjectReference Include="..\Exercise_15\Exercise_15.csproj" />
+    <ProjectReference Include="..\Exercise_16\Exercise_16.csproj" />
+    <ProjectReference Include="..\Exercise_17\Exercise_17.csproj" />
+    <ProjectReference Include="..\Exercise_3\Exercise_3.csproj" />
+    <ProjectReference Include="..\Exercise_4\Exercise_4.csproj" />
+    <ProjectReference Include="..\Exercise_5\Exercise_5.csproj" />
+    <ProjectReference Include="..\Exercise_7\Exercise_7.csproj" />
+    <ProjectReference Include="..\Exercise_8\Exercise_8.csproj" />
+    <ProjectReference Include="..\Exercise_9\Exercise_9.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+D:\assignment\C#Assignment\Exercise6\bin\Debug\netcoreapp3.1\Exercise_6.deps.json
+D:\assignment\C#Assignment\Exercise6\bin\Debug\netcoreapp3.1\Exercise_6.dll
+D:\assignment\C#Assignment\Exercise6\bin\Debug\netcoreapp3.1\Exercise_6.pdb
+D:\assignment\C#Assignment\Exercise6\obj\Debug\netcoreapp3.1\Exercise_6.csproj.AssemblyReference.cache
+D:\assignment\C#Assignment\Exercise6\obj\Debug\netcoreapp3.1\Exercise_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\assignment\C#Assignment\Exercise6\obj\Debug\netcoreapp3.1\Exercise_6.AssemblyInfoInputs.cache
+D:\assignment\C#Assignment\Exercise6\obj\Debug\netcoreapp3.1\Exercise_6.AssemblyInfo.cs
+D:\assignment\C#Assignment\Exercise6\obj\Debug\netcoreapp3.1\Exercise_6.csproj.CoreCompileInputs.cache
+D:\assignment\C#Assignment\Exercise6\obj\Debug\netcoreapp3.1\Exercise_6.dll
+D:\assignment\C#Assignment\Exercise6\obj\Debug\netcoreapp3.1\Exercise_6.pdb
